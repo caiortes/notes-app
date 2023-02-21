@@ -12,7 +12,7 @@ Aplicativo de anotações utilizando apenas a linha de comando
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Javascript
+- JavaScript
 - NodeJS
 - Git e Github
 
